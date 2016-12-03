@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Arimo');
 @import url('https://fonts.googleapis.com/css?family=Arimo|Maitree');
 body{
-  background-color: gray;
+  background-color: #ecb3ff;
 }
 .logo{
   display: inline;
@@ -42,7 +42,7 @@ font-family: 'Maitree', serif;
   float: left;
   position: relative;
   left:100px;
-background-color: red;
+background-color:#99ccff;
 height: 50px;
 margin-bottom: 20px;
 }
